@@ -1,10 +1,12 @@
 ##Custom
 .gradle/
+gradle/
 build/
 build.gradle
 gradlew.bat
 gradle.properties
 gradlew
+.idea/
 
 
 
